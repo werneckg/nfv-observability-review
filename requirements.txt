@@ -1,0 +1,4 @@
+python3-bibtexparser
+python3-pylatexenc
+python3-html2text
+

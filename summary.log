@@ -1,0 +1,1423 @@
+=== MERGE SUMMARY ===
+
+Total works: 4076
+Duplicated works: 283
+Unique works: 3793
+
+=== DUPLICATED WORKS ===
+
+1. Title: Contain-ed: An NFV Micro-Service System for Containing e2e Latency
+   DOI: 10.1145/3094405.3094408
+   Source File: ACM - acm_3338840.3355637 - 2016-2021.bib
+   Original File: ACM - acm_3338840.3355637 - 2016-2021.bib
+
+2. Title: NFVnice: Dynamic Backpressure and Scheduling for NFV Service Chains
+   DOI: 10.1145/3098822.3098828
+   Source File: ACM - acm_3338840.3355637 - 2016-2021.bib
+   Original File: ACM - acm_3338840.3355637 - 2016-2021.bib
+
+3. Title: Refining Network Intents for Self-Driving Networks
+   DOI: 10.1145/3229584.3229590
+   Source File: ACM - acm_3338840.3355637 - 2016-2021.bib
+   Original File: ACM - acm_3338840.3355637 - 2016-2021.bib
+
+4. Title: SkyCore: Moving Core to the Edge for Untethered and Reliable UAV-based LTE Networks
+   DOI: 10.1145/3241539.3241549
+   Source File: ACM - acm_3338840.3355637 - 2016-2021.bib
+   Original File: ACM - acm_3338840.3355637 - 2016-2021.bib
+
+5. Title: CliMB: Enabling Network Function Composition with Click Middleboxes
+   DOI: 10.1145/2940147.2940152
+   Source File: ACM - acm_3338840.3355637 - 2016-2021.bib
+   Original File: ACM - acm_3338840.3355637 - 2016-2021.bib
+
+6. Title: CAP on mobility control for 4G LTE networks
+   DOI: 10.1145/2980115.2980120
+   Source File: ACM - acm_3338840.3355637 - 2016-2021.bib
+   Original File: ACM - acm_3338840.3355637 - 2016-2021.bib
+
+7. Title: SAFE: Service Availability via Failure Elimination Through VNF Scaling
+   DOI: 10.1109/TNET.2022.3233488
+   Source File: ACM - acm_3711650.3711651 2022-2026.bib
+   Original File: ACM - acm_3338840.3355637 - 2016-2021.bib
+
+8. Title: CoreKube: An Efficient, Autoscaling and Resilient Mobile Core System
+   DOI: 10.1145/3570361.3592522
+   Source File: ACM - acm_3711650.3711651 2022-2026.bib
+   Original File: ACM - acm_3711650.3711651 2022-2026.bib
+
+9. Title: Network Emulation as a Service (NEaaS): Towards a Cloud-Based Network Emulation Platform
+   DOI: 10.1007/978-3-030-32216-8_49
+   Source File: SearchResults - 2016-2021.csv
+   Original File: SearchResults - 2016-2021.csv
+
+10. Title: On-Line Path Computation and Function Placement in SDNs
+   DOI: 10.1007/978-3-319-49259-9_11
+   Source File: SearchResults - 2016-2021.csv
+   Original File: SearchResults - 2016-2021.csv
+
+11. Title: CERBERUS: Towards Secure and Automated Multi-operator Management in B5G Through a Dynamic Policy-Based ZSM Framework
+   DOI: 10.1007/s10922-025-09984-3
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: SearchResults - 2022-2025.csv
+
+12. Title: Discrete-Time Modeling of NFV Accelerators that Exploit Batched Processing
+   DOI: 10.1145/3488243
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: ACM - acm_3338840.3355637 - 2016-2021.bib
+
+13. Title: Implementation and Evaluation of IPSec in an NFV-Based Network
+   DOI: 10.1007/978-981-97-2053-8_4
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: SearchResults - 2022-2025.csv
+
+14. Title: New Trends in Over the Top Media Service (OTT) Web User Behaviour Analysis and Unethical User Prediction
+   DOI: 10.1007/s11036-023-02214-7
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: SearchResults - 2022-2025.csv
+
+15. Title: Network Topology-Traceable Fault Recovery Framework with Reinforcement Learning
+   DOI: 10.1007/978-3-030-75100-5_34
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: SearchResults - 2016-2021.csv
+
+16. Title: Coordinated dataflow protection for ultra-high bandwidth science networks
+   DOI: 10.1145/3359789.3359843
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: ACM - acm_3338840.3355637 - 2016-2021.bib
+
+17. Title: Assuring Efficient Path Selection in an Intent-Based Networking System: A Graph Neural Networks and Deep Reinforcement Learning Approach
+   DOI: 10.1007/s10922-024-09814-y
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: SearchResults - 2022-2025.csv
+
+18. Title: Active Detection Path Planning Algorithm and Implementation for SFC Fault Detection
+   DOI: 10.1007/978-981-19-9697-9_29
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: SearchResults - 2022-2025.csv
+
+19. Title: Resource Prediction of Virtual Network Function Based on Traffic Feature Extraction
+   DOI: 10.1145/3533050.3533068
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: ACM - acm_3711650.3711651 2022-2026.bib
+
+20. Title: Debugging SDN in HPC environments
+   DOI: 10.1145/3219104.3229277
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: ACM - acm_3338840.3355637 - 2016-2021.bib
+
+21. Title: Computing Measurement-Based Deployment of Service Function Chains in Computing Power Networks
+   DOI: 10.1007/978-3-032-10459-5_7
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: SearchResults - 2026.csv
+
+22. Title: Determining Edge Node Real-Time Capabilities
+   DOI: 10.1109/DS-RT52167.2021.9576132
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: ACM - acm_3711650.3711651 2022-2026.bib
+
+23. Title: ZTMP: Zero Touch Management Provisioning Algorithm for the On-boarding of Cloud-native Virtual Network Functions
+   DOI: 10.1007/s11036-023-02260-1
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: SearchResults - 2022-2025.csv
+
+24. Title: Service chain-driven communication and computing integration networking: Architecture, key technologies, use case, and open research trends
+   DOI: 10.1007/s12083-025-02189-0
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: SearchResults - 2026.csv
+
+25. Title: P4 In-Band Telemetry (INT) for Latency-Aware VNF in Metro Networks
+   DOI: 10.1364/ofc.2019.m3z.6
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+26. Title: Profit Maximization for Service Placement and Request Assignment in Edge Computing via Deep Reinforcement Learning
+   DOI: 10.1145/3479239.3485673
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: ACM - acm_3338840.3355637 - 2016-2021.bib
+
+27. Title: NFVnice: Dynamic Backpressure and Scheduling for NFV Service Chains
+   DOI: 10.1109/TNET.2020.2969971
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: ACM - acm_3338840.3355637 - 2016-2021.bib
+
+28. Title: Software-defined multi-cloud computing: A vision, architectural elements, and future directions
+   DOI: 10.1007/978-3-319-95162-1_1
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: SearchResults - 2016-2021.csv
+
+29. Title: Emulator-Based Configuration on QoS Measurement: A Case Study of DRL Actions on Mininet and RYU Testbed
+   DOI: 10.1007/978-981-97-2447-5_4
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: SearchResults - 2022-2025.csv
+
+30. Title: Adaptive Network Security Service Orchestration Based on SDN/NFV
+   DOI: 10.1007/978-3-030-89432-0_19
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: SearchResults - 2016-2021.csv
+
+31. Title: Initializing SDN-NFV Integration for Smart City as Environment to DQN Agent in QoS Optimization
+   DOI: 10.1007/978-981-97-2447-5_3
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: SearchResults - 2022-2025.csv
+
+32. Title: Automated profiling of virtualized media processing functions using telemetry and machine learning
+   DOI: 10.1145/3204949.3204976
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: ACM - acm_3338840.3355637 - 2016-2021.bib
+
+33. Title: ETOM mapping onto NFV framework: IMS use case
+   DOI: 10.1145/3167486.3167534
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: ACM - acm_3338840.3355637 - 2016-2021.bib
+
+34. Title: Securing 5G Network Slicing: A Hybrid Machine Learning Approach for DDoS Threat Detection and Performance Evaluation
+   DOI: 10.1007/978-3-032-13177-5_2
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: SearchResults - 2026.csv
+
+35. Title: Techniques for Enhancing Security in Industrial Control Systems
+   DOI: 10.1145/3630103
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: ACM - acm_3711650.3711651 2022-2026.bib
+
+36. Title: A Monitoring Aware Strategy for 5G Core Slice Embedding
+   DOI: 10.1007/978-3-030-75075-6_60
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: SearchResults - 2016-2021.csv
+
+37. Title: An online ensemble method for auto-scaling NFV-based applications in the edge
+   DOI: 10.1007/s10586-024-04465-9
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: SearchResults - 2022-2025.csv
+
+38. Title: A control and management architecture supporting autonomic NFV services
+   DOI: 10.1007/s11107-018-0808-2
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: SearchResults - 2016-2021.csv
+
+39. Title: Closed loop optimization of 5G network slices
+   DOI: 10.1145/3564695.3564776
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: ACM - acm_3711650.3711651 2022-2026.bib
+
+40. Title: Towards optimal adaptation of NFV packet processing to modern CPU memory architectures
+   DOI: 10.1145/3155921.3158429
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: ACM - acm_3338840.3355637 - 2016-2021.bib
+
+41. Title: SAFE: Service Availability via Failure Elimination Through VNF Scaling
+   DOI: 10.1109/TNET.2022.3233488
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: ACM - acm_3338840.3355637 - 2016-2021.bib
+
+42. Title: Efficient detection of flow anomalies with limited monitoring resources
+   DOI: 10.1109/CNSM.2016.7818400
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: ACM - acm_3338840.3355637 - 2016-2021.bib
+
+43. Title: 5G Network Slice Scalability Based on Management Data Analytics Function (MDAF)
+   DOI: 10.1007/978-981-19-9582-8_52
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: SearchResults - 2022-2025.csv
+
+44. Title: Nfvnice: Dynamic backpressure and scheduling for NFV service chains
+   DOI: 10.1145/3098822.3098828
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: ACM - acm_3338840.3355637 - 2016-2021.bib
+
+45. Title: Virtualized Network Function Scaling Strategy Based on Additional Momentum BP Neural Network
+   DOI: 10.1145/3640912.3640922
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: ACM - acm_3711650.3711651 2022-2026.bib
+
+46. Title: Inclusion of telemetry and data analytics in the context of the 5G ESSENCE architectural approach
+   DOI: 10.1007/978-3-030-19909-8_4
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: SearchResults - 2016-2021.csv
+
+47. Title: Elastic urban video surveillance system using edge computing
+   DOI: 10.1145/3132479.3132490
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: ACM - acm_3338840.3355637 - 2016-2021.bib
+
+48. Title: Predictive analysis in network function virtualization
+   DOI: 10.1145/3278532.3278547
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: ACM - acm_3338840.3355637 - 2016-2021.bib
+
+49. Title: SDN for 5G mobile networks: NORMA perspective
+   DOI: 10.1007/978-3-319-40352-6_61
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: SearchResults - 2016-2021.csv
+
+50. Title: Network function virtualization (NFV) platform for wellness in high-speed network
+   DOI: 10.1007/978-981-10-0557-2_140
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: SearchResults - 2016-2021.csv
+
+51. Title: Improving mobile business process monitoring with enhanced NFV MANO: A method to elicit connectivity requirements from process models
+   DOI: 10.1145/3341105.3374040
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: ACM - acm_3338840.3355637 - 2016-2021.bib
+
+52. Title: Intelligent and dynamic ransomware spread detection and mitigation in integrated clinical environments
+   DOI: 10.3390/s19051114
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+53. Title: Deep Reinforcement Learning for Context-Aware Online Service Function Chain Deployment and Migration over 6G Networks
+   DOI: 10.1145/3672608.3707975
+   Source File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+   Original File: ACM - acm_3711650.3711651 2022-2026.bib
+
+54. Title: Dynamic Monitoring of Data Center Slices
+   DOI: 10.1109/NETSOFT.2019.8806683
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+55. Title: Real-Time Management and Control of Monitoring Elements In Dynamic Cloud Network Systems
+   DOI: 10.1109/CloudNet.2018.8549443
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+56. Title: Dynamic QoS/QoE assurance in realistic NFV-enabled 5G Access Networks
+   DOI: 10.1109/ICTON.2017.8025149
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+57. Title: NFV-based network protection: The SHIELD approach
+   DOI: 10.1109/NFV-SDN.2017.8169869
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+58. Title: NetEye: Network Monitoringfor a Software Defined Networkbased Virtualized Network Functions Platform
+   DOI: 10.1109/ICRAIE52900.2021.9704004
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+59. Title: Method for VNF Placement for Service Function Chaining optimized in the NFV Environment
+   DOI: 10.1109/ICUFN.2019.8806094
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+60. Title: NFV Closed-loop Automation Experiments using Deep Reinforcement Learning
+   DOI: 10.1109/INFCOMW.2019.8845222
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+61. Title: Dynamic Virtual Measurement Function scheduling in software-oriented measurement environment
+   DOI: 10.1109/ICC.2017.7996838
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+62. Title: Study on the accuracy of QoE monitoring for HTTP adaptive video streaming using VNF
+   DOI: 10.23919/INM.2017.7987425
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+63. Title: Latency-Aware, Static, and Dynamic Decision-Tree Placement Algorithm for Containerized SDN-VNF in OpenFlow Architectures
+   DOI: 10.1109/NFV-SDN47374.2019.9039973
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+64. Title: Cheapo: An algorithm for runtime adaption of time intervals applied in 5G networks
+   DOI: 10.1109/SDS.2018.8370420
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+65. Title: Automated deployment and scaling of automotive safety services in 5G-Transformer
+   DOI: 10.1109/NFV-SDN47374.2019.9039990
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+66. Title: On the feasibility of using hybrid evolutionary dynamic optimization for optimal monitor selection in dynamic communication networks
+   DOI: 10.1109/NOMS.2018.8406298
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+67. Title: Numerical Study of Pipework Arrangement Effects on Flow Rate Fed into Calibrated Flowmeter
+   DOI: 10.1109/I2MTC.2019.8826830
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+68. Title: A Dynamic VNF Deployment to Avoid Controller Overload in SDN-Cluster
+   DOI: 10.1109/ICASI57738.2023.10179536
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+69. Title: Meeting the observability challenges for VNFs in 5G systems
+   DOI: 10.23919/INM.2017.7987445
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+70. Title: A Reactive VNF Orchestrator with Explainable AI-Based Intrusion Detection in 5G Networks
+   DOI: 10.1109/ICM66518.2025.11322481
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+71. Title: Dynamic collection and analysis of network link performance indicators based on BGP-LS and telemetry
+   DOI: 10.1109/ICIBA56860.2023.10164985
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+72. Title: Heterogeneous Flow Scheduling using Deep Reinforcement Learning in Partially Observable NFV Environment
+   DOI: 10.1109/NaNA53684.2021.00081
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+73. Title: An NFV Framework for Supporting Elastic Scaling of Service Function Chain
+   DOI: 10.1109/CompComm.2018.8780733
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+74. Title: AdaptChain: Adaptive Data Sharing and Synchronization for NFV Systems on Heterogeneous Architectures
+   DOI: 10.1109/TPDS.2024.3400594
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+75. Title: SDN/NFV Security Challenges and Proposed Architecture
+   DOI: 10.1109/CiSt56084.2023.10409955
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+76. Title: An Efficient VNF Deployment Algorithm for SFC Scaling-out Based on the Proposed Scaling Management Mechanism
+   DOI: 10.1109/ICTC49638.2020.9123252
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+77. Title: Neural Network-Based Traffic Prediction Model with Adaptive Spatial-Temporal Analysis in NFV Networks
+   DOI: 10.1109/ICCT52962.2021.9657896
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+78. Title: Optimal Placement of Network Security Monitoring Functions in NFV-Enabled Data Centers
+   DOI: 10.1109/SC2.2017.10
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+79. Title: Traffic-aware Live Migration in Virtualized CPE Scenarios
+   DOI: 10.1109/NFV-SDN47374.2019.9039975
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+80. Title: NFVPermit: Toward Ensuring Performance Isolation in NFV-Based Systems
+   DOI: 10.1109/TNSM.2023.3278731
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+81. Title: Bring Functions Back to the Network: A Measurement Study
+   DOI: 10.1109/NFV-SDN61811.2024.10807496
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+82. Title: Integrating Language Models for Enhanced Network State Monitoring in DRL-Based SFC Provisioning
+   DOI: 10.1109/ISCC65549.2025.11324453
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+83. Title: P4 In-Band Telemetry (INT) for Latency-Aware VNF in Metro Networks
+   DOI: 
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+84. Title: A Survey on QoE Management Schemes for HTTP Adaptive Video Streaming: Challenges, Solutions, and Opportunities
+   DOI: 10.1109/ACCESS.2024.3491613
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+85. Title: NFV service dynamicity with a DevOps approach: Insights from a use-case realization
+   DOI: 10.23919/INM.2017.7987357
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+86. Title: HyScaler: A Dynamic, Hybrid VNF Scaling System for Building Elastic Service Function Chains Across Multiple Servers
+   DOI: 10.1109/TNSM.2023.3277552
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+87. Title: Dynamic Policy Management System for High Availability in a Multi-site Cloud
+   DOI: 10.1109/ICTC49870.2020.9289410
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+88. Title: Healthcare 4.0: Requirements and Challenges for E2E Slicing & Orchestration
+   DOI: 10.1109/NFV-SDN66355.2025.11349470
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+89. Title: Blockchain-based SLA Management for Inter-Provider Agreements
+   DOI: 10.1109/NFV-SDN56302.2022.9974899
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+90. Title: QoE-Aware Dynamic Resource Management in Future Softwarized and Virtualized Networks
+   DOI: 10.1109/ACCESS.2023.3309599
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+91. Title: Predicting VNF Deployment Decisions under Dynamically Changing Network Conditions
+   DOI: 10.23919/CNSM46954.2019.9012734
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+92. Title: Dynamic Network Security Function Enforcement via Joint Flow and Function Scheduling
+   DOI: 10.1109/TIFS.2022.3142995
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+93. Title: Adaptable and Data-Driven Softwarized Networks: Review, Opportunities, and Challenges
+   DOI: 10.1109/JPROC.2019.2895553
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+94. Title: Recursively querying monitoring data in NFV environments
+   DOI: 10.1109/NETSOFT.2016.7502420
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+95. Title: Machine Learning-based Prediction of VNF Deployment Decisions in Dynamic Networks
+   DOI: 10.23919/APNOMS.2019.8893073
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+96. Title: Excitation of Piezoelectrically Actuated Nozzle-Flapper Valve and Its Potential for Fuel Flowmeter Dynamic Calibration
+   DOI: 10.1109/TMECH.2019.2963501
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+97. Title: Self-Adaptive SRv6-INT-Driven System Adjustment in Runtime for Reliable Service Function Chaining
+   DOI: 10.1109/TNSM.2024.3404461
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+98. Title: DataPlane Broker: Open WAN control for multi-site service orchestration
+   DOI: 10.1109/NFV-SDN47374.2019.9040084
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+99. Title: DATURA: A Deep Learning-Based Adaptive Traffic-Aware Unified Resource Autoscaling Framework for VNFs in 5G/B5G Networks
+   DOI: 10.1109/OJCOMS.2026.3668155
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+100. Title: Finedge: A Dynamic Cost-Efficient Edge Resource Management Platform for NFV Network
+   DOI: 10.1109/IWQoS49365.2020.9212908
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+101. Title: A connectionist approach to dynamic resource management for virtualised network functions
+   DOI: 10.1109/CNSM.2016.7818394
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: ACM - acm_3338840.3355637 - 2016-2021.bib
+
+102. Title: Orchestrating distributed mode of NFV
+   DOI: 10.1109/NETSOFT.2016.7502437
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+103. Title: QoE-Driven Adaptive Video Streaming: Architectures, Techniques, and Future Research Challenges Toward 6G Networks
+   DOI: 10.1109/ACCESS.2025.3597058
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+104. Title: Efficient Restoration of Simultaneous Transport Services within an NFV Infrastructure
+   DOI: 10.1109/GLOBECOM46510.2021.9685511
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+105. Title: Performance Impacts of Scaling Policies for virtual IP Multimedia Subsystem on the Cloud
+   DOI: 10.1109/NFV-SDN56302.2022.9974953
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+106. Title: Network orchestration in reliable 5G/NFV/SDN infrastructures
+   DOI: 10.1109/ICTON.2017.8024937
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+107. Title: Control plane architectures enabling transport network adaptive and autonomic operation
+   DOI: 10.1109/ICTON.2017.8025013
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+108. Title: Energy Savings & Resiliency with Closed Loop Platform Automation
+   DOI: 10.23919/TMA.2019.8784669
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+109. Title: Efficient detection of flow anomalies with limited monitoring resources
+   DOI: 10.1109/CNSM.2016.7818400
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: ACM - acm_3338840.3355637 - 2016-2021.bib
+
+110. Title: Application of Machine Learning and Deep Learning Algorithms in Predicting Virtual Network Functions for Network Function Virtualization
+   DOI: 10.1109/ICCCNT56998.2023.10308121
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+111. Title: QoS oriented SFC dynamic optimization method in softwareized network
+   DOI: 10.1109/ICISCE48695.2019.00090
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+112. Title: OpenRASE: Service Function Chain Emulation
+   DOI: 10.23919/SoftCOM66362.2025.11197454
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+113. Title: On-Demand Allocation of Control Plane Functions via SDN/NFV for Monitoring-enabled Flexi-grid Optical Networks with Programmable BVTs
+   DOI: 
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+114. Title: Enabling agile video transcoding over SDN/NFV-enabled networks
+   DOI: 10.1109/TEMU.2016.7551916
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+115. Title: A Cloud-Native Monitoring System Enabling Scalable and Distributed Management of 5G Network Slices
+   DOI: 10.1109/MeditCom49071.2021.9647568
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+116. Title: Machine Learning for Dynamic Resource Allocation in Network Function Virtualization
+   DOI: 10.1109/NetSoft48620.2020.9165348
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+117. Title: Towards Practical Dynamic Trust Monitoring of Containerized Services in NFV Infrastructure
+   DOI: 10.1109/ICC45041.2023.10279302
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+118. Title: DT-Assisted VNF Migration in SDN/NVF-Enabled IoT Networks via Multiagent Deep Reinforcement Learning
+   DOI: 10.1109/JIOT.2024.3392574
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+119. Title: SAFE: Service Availability via Failure Elimination Through VNF Scaling
+   DOI: 10.1109/TNET.2022.3233488
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: ACM - acm_3338840.3355637 - 2016-2021.bib
+
+120. Title: Online Density Grid Pattern Analysis to Classify Anomalies in Cloud and NFV Systems
+   DOI: 10.1109/CloudCom2018.2018.00063
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+121. Title: VNFO-DCSC: A Novel Secure End-to-End NFV Marketplace Using Dynamic Composite Smart Contracts
+   DOI: 10.1109/GLOBECOM54140.2023.10436770
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+122. Title: Experimental Evaluation of ML Models for Dynamic VNF Autoscaling
+   DOI: 10.1109/CSCN57023.2022.10051112
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+123. Title: ClusPR: Balancing Multiple Objectives at Scale for NFV Resource Allocation
+   DOI: 10.1109/TNSM.2018.2870733
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+124. Title: Automating Mitigation of Amplification Attacks in NFV Services
+   DOI: 10.1109/TNSM.2022.3172880
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+125. Title: NFVnice: Dynamic Backpressure and Scheduling for NFV Service Chains
+   DOI: 10.1109/TNET.2020.2969971
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: ACM - acm_3338840.3355637 - 2016-2021.bib
+
+126. Title: Availability Model for Data Center Networks With Dynamic Migration and Multiple Traffic Flows
+   DOI: 10.1109/TNSM.2023.3242321
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+127. Title: Using a flexibility measure for network design space analysis of SDN and NFV
+   DOI: 10.1109/INFCOMW.2016.7562114
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+128. Title: LiLM-RDB-SFC: Lightweight Language Model with Relational Database-Guided DRL for Optimized SFC Provisioning
+   DOI: 10.1109/NoF66640.2025.11223314
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+129. Title: Using the COMPA autonomous architecture for mobile network security
+   DOI: 10.23919/INM.2017.7987370
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+130. Title: An IoT Framework Based on SDN and NFV for Context-Aware Security
+   DOI: 10.1109/ICUFN49451.2021.9528768
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+131. Title: Autonomous Multi-Layer Security Orchestration for 5G Network Slicing Using AI-Driven Control and Adaptive Defense
+   DOI: 10.1109/CNC68716.2025.11484744
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+132. Title: A Web-based Orchestrator for Dynamic Service Function Chaining Development with Kubernetes
+   DOI: 10.1109/NetSoft54395.2022.9844086
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+133. Title: QoESoft: QoE Management Architecture for Softwarized 5G Networks
+   DOI: 10.1109/ICCWorkshops49005.2020.9145229
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+134. Title: Dynamic Topology Design of NFV-Enabled Services Using Deep Reinforcement Learning
+   DOI: 10.1109/TCCN.2021.3139632
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+135. Title: A Softwarized Service Infrastructure for the Dynamic Orchestration of IT Resources in 5G Deployments
+   DOI: 10.1109/ICTON51198.2020.9203757
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+136. Title: Secure Network Slicing in 5G Using NFV and SDN
+   DOI: 10.1109/ETCOM66606.2025.11436293
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+137. Title: Proactive VNF Redeployment and Traffic Routing for modern telco networks
+   DOI: 10.1109/NetSoft60951.2024.10588905
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+138. Title: MiddleNet: A Unified, High-Performance NFV and Middlebox Framework With eBPF and DPDK
+   DOI: 10.1109/TNSM.2023.3256891
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+139. Title: ASSDN: A Framework for Adaptive Strategies for Software-Defined Networking
+   DOI: 10.1109/WETICE.2016.30
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+140. Title: Real-time aggregation framework in a 5G SDN self-management environment
+   DOI: 10.1109/WCNC.2018.8377320
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+141. Title: Fairness-Aware VNF Sharing and Rate Coordination for High Efficient Service Scheduling
+   DOI: 10.1109/TPDS.2022.3199392
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+142. Title: Optimizing NFV Chain Deployment through Minimizing the Cost of Virtual Switching
+   DOI: 10.1109/INFOCOM.2018.8486315
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+143. Title: A Novel Method for Resource Efficient Security Service Chain Embedding Oriented to Cloud Datacenter Networks
+   DOI: 10.1109/ACCESS.2021.3082644
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+144. Title: A benchmarking methodology for virtualized packet core implementations
+   DOI: 10.1109/CSCN.2016.7785156
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+145. Title: Security Management Architecture for NFV/SDN-Aware IoT Systems
+   DOI: 10.1109/JIOT.2019.2904123
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+146. Title: BCOOL: A Novel Blockchain Congestion Control Architecture Using Dynamic Service Function Chaining and Machine Learning for Next Generation Vehicular Networks
+   DOI: 10.1109/ACCESS.2021.3070023
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+147. Title: Bandwidth Part Adaptation and Processing Time Evaluation with OpenAirInterface
+   DOI: 10.1109/VTCFall.2018.8690902
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+148. Title: ARDefense: DDoS detection and prevention using NFV and SDN
+   DOI: 10.1109/ICUMT51630.2020.9222443
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+149. Title: P4NFV: An NFV Architecture with Flexible Data Plane Reconfiguration
+   DOI: 
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+150. Title: SAJD: Self-Adaptive Jamming Attack Detection in AI/ML Integrated 5G O-RAN Networks
+   DOI: 10.1109/MILCOM64451.2025.11310373
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+151. Title: Combined Stateful Classification and Session Splicing for High-Speed NFV Service Chaining
+   DOI: 10.1109/TNET.2021.3099240
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: ACM - acm_3338840.3355637 - 2016-2021.bib
+
+152. Title: SDN/NFV Enabled Security for an Enterprise Network using Commodity Hardware
+   DOI: 10.1109/iCCECE55162.2022.9875076
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+153. Title: Digital-Twin assisted Root Cause Analysis of Anomalies in NFV Environment
+   DOI: 10.1109/ICC42927.2021.9500464
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+154. Title: Self provisioning framework for virtualized network functions
+   DOI: 10.1109/ICIN.2018.8401598
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+155. Title: Efficient NFV-Enabled Multicasting in SDNs
+   DOI: 10.1109/TCOMM.2018.2881438
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+156. Title: Approximation and Online Algorithms for NFV-Enabled Multicasting in SDNs
+   DOI: 10.1109/ICDCS.2017.43
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+157. Title: A Review of Secure IoT Based Smart Health Monitoring System using Blockchain Technique
+   DOI: 10.1109/ICSADL61749.2024.00099
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+158. Title: Programmability for Flexible 6G Architecture
+   DOI: 10.1109/FNWF63303.2024.11028720
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+159. Title: Causality inference for failures in NFV
+   DOI: 10.1109/INFCOMW.2016.7562212
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+160. Title: A framework to facilitate management of services in cloud based 5G environments
+   DOI: 10.23919/INM.2017.7987447
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+161. Title: Dynamic Fault Management in Service Function Chaining
+   DOI: 10.1109/COMPSAC48688.2020.00-46
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+162. Title: Adaptive Performance Analysis in IoT Platforms
+   DOI: 10.1109/TNSM.2022.3193750
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+163. Title: A Cost-Effective Approach for End-to-End QoS Management in NFV-Enabled IoT Platforms
+   DOI: 10.1109/JIOT.2020.3025500
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+164. Title: OpenNetVM: Flexible, high performance NFV (Demo)
+   DOI: 10.1109/LANMAN.2016.7548875
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: IEEE - export2026.06.10-13.59.50.csv
+
+165. Title: Predictive path routing algorithm for low-latency traffic in NFV-based experimental testbed
+   DOI: 10.23919/JCN.2023.000018
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+166. Title: An SDN/NFV-Enabled Enterprise Network Architecture Offering Fine-Grained Security Policy Enforcement
+   DOI: 10.1109/MCOM.2017.1600414CM
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+167. Title: Optimizing Resource Allocation for Dynamic IoT Requests Using Network Function Virtualization
+   DOI: 10.1109/TNSE.2025.3565736
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+168. Title: Determining Edge Node Real-Time Capabilities
+   DOI: 10.1109/DS-RT52167.2021.9576132
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: ACM - acm_3711650.3711651 2022-2026.bib
+
+169. Title: VNF Availability and SFC Sizing Model for Service Provider Networks
+   DOI: 10.1109/ACCESS.2020.3005287
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+170. Title: Creating Tailored and Adaptive Network Services with the Open Orchestration C-RAN Framework
+   DOI: 10.1109/5GWF.2018.8517018
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+171. Title: A Survey on Emerging SDN and NFV Security Mechanisms for IoT Systems
+   DOI: 10.1109/COMST.2018.2862350
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+172. Title: QoE Management of Multimedia Streaming Services in Future Networks: A Tutorial and Survey
+   DOI: 10.1109/COMST.2019.2958784
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+173. Title: Reliable Placement of Service Function Chains and Virtual Monitoring Functions With Minimal Cost in Softwarized 5G Networks
+   DOI: 10.1109/TNSM.2021.3056917
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+174. Title: FlexNFV: Flexible Network Service Chaining with Dynamic Scaling
+   DOI: 10.1109/MNET.001.1900483
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+175. Title: vSFC: Generic and Agile Verification of Service Function Chains in the Cloud
+   DOI: 10.1109/TNET.2020.3028846
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: ACM - acm_3338840.3355637 - 2016-2021.bib
+
+176. Title: Design, Implementation, and Validation of a Multi-Site Gaming Streaming Service Over a 5G-Enabled Platform
+   DOI: 10.1109/TBC.2022.3141615
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+177. Title: Optimization of the implementation of network slicing in 5G RAN
+   DOI: 10.1109/MENACOMM.2018.8371035
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+178. Title: Near Real-Time Anomaly Detection in NFV Infrastructures II: From SM to AGMP
+   DOI: 10.1109/IC2E65552.2025.00012
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+179. Title: Machine Learning based Link State Aware Service Function Chaining
+   DOI: 10.23919/APNOMS.2019.8893037
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+180. Title: Dynamic VNF Placement in 5G Edge Nodes
+   DOI: 10.1109/NetSoft54395.2022.9844093
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+181. Title: Network Intelligence for NFV Scaling in Closed-Loop Architectures
+   DOI: 10.1109/MCOM.001.2200529
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+182. Title: Characterizing and Orchestrating NFV-Ready Servers for Efficient Edge Data Processing
+   DOI: 10.1145/3326285.3329057
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: ACM - acm_3338840.3355637 - 2016-2021.bib
+
+183. Title: An Orchestration Platform for In-Network DDoS Attack Detection with P4 Programmable Switches
+   DOI: 10.1109/HPSR64165.2025.11038892
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+184. Title: NLES: A Novel Lifetime Extension Scheme for Safety-Critical Cyber-Physical Systems Using SDN and NFV
+   DOI: 10.1109/JIOT.2018.2870294
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+185. Title: Dynamic Modular vCPE Orchestration in Platform as a Service Architectures
+   DOI: 10.1109/CloudNet47604.2019.9064147
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+186. Title: Online Joint Placement and Allocation of Virtual Network Functions With Heterogeneous Servers
+   DOI: 10.1109/JIOT.2020.2990412
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+187. Title: NFV Orchestration Framework Addressing SFC Challenges
+   DOI: 10.1109/MCOM.2017.1601055
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+188. Title: A Lightweight Autoscaling Mechanism for Fog Computing in Industrial Applications
+   DOI: 10.1109/TII.2018.2799230
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+189. Title: P4Guard: Designing P4 Based Firewall
+   DOI: 10.1109/MILCOM.2018.8599726
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+190. Title: A Lightweight Estimation Algorithm To Auto Configure Snort Fast Pattern Matcher
+   DOI: 10.1109/LCNSymposium47956.2019.9000666
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+191. Title: A Cloud-based SDN/NFV Testbed for End-to-End Network Slicing in 4G/5G
+   DOI: 10.1109/NetSoft48620.2020.9165419
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+192. Title: Energy-Efficient Virtualized gNBs for Cloud-Native O-RAN: A Testbed-Based Study of CPU Resource Management in 5G/6G Networks
+   DOI: 10.1109/TGCN.2025.3633457
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+193. Title: A Novel Algorithm for NFV Chain Placement in Edge Computing Environments
+   DOI: 10.1109/GLOCOM.2018.8647371
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+194. Title: Remote Production and Mobile Contribution Over 5G Networks: Scenarios, Requirements and Approaches for Broadcast Quality Media Streaming
+   DOI: 10.1109/BMSB.2018.8436772
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+195. Title: SDS2: A novel software-defined security service for protecting cloud computing infrastructure
+   DOI: 10.1109/NCA.2017.8171388
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+196. Title: Interactive Visualization of SDN-Enabled Multisite Cloud Playgrounds Leveraging SmartX MultiView Visibility Framework
+   DOI: 10.1093/comjnl/bxy103
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+197. Title: Ataru: A Lightweight VMM + Runtime for Low Latency Serverless Functions
+   DOI: 10.1109/CloudCom62794.2024.00019
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+198. Title: Optimising microservice-based reliable NFV management & orchestration architectures
+   DOI: 10.1109/RNDM.2017.8093034
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+199. Title: Overcoming Network and Security Management Platform Gaps in Federated Software Networks
+   DOI: 
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+200. Title: A Survey on Security and Privacy of 5G Technologies: Potential Solutions, Recent Advancements, and Future Directions
+   DOI: 10.1109/COMST.2019.2933899
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+201. Title: An AI-Assisted Framework for Lifecycle Management of Beyond 5G Services
+   DOI: 10.1109/ACCESS.2024.3507359
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+202. Title: Reconfiguring Satellite CDNs With Dynamic Uncertain User Requests Based on Multi-Agent DRL
+   DOI: 10.1109/TNSM.2025.3584396
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+203. Title: Detecting Denial Attacks in Malicious Devices Through Analysis of Heterogeneous Networks
+   DOI: 10.1109/WAMS64402.2025.11157974
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+204. Title: Fault and Performance Management in Multi-Cloud Based NFV Using Shallow and Deep Predictive Structures
+   DOI: 10.1109/ICCCN.2017.8038530
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: SearchResults - 2016-2021.csv
+
+205. Title: NFV-based IoT Security for Home Networks using MUD
+   DOI: 10.1109/NOMS47738.2020.9110329
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+206. Title: Machine Learning Algorithms for Enhancing Intrusion Detection Within SDN/NFV
+   DOI: 10.1109/IWCMC58020.2023.10183024
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+207. Title: Modeling the Cost of Flexibility in Communication Networks
+   DOI: 10.1109/INFOCOM42981.2021.9488900
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+208. Title: Towards Cross-domain Resilience in SDN-enabled Smart Power Grids: Enabling Information Sharing through Dataspaces
+   DOI: 10.1109/COINS57856.2023.10189319
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+209. Title: SWEETEN: Automated Network Management Provisioning for 5G Microservices-Based Virtual Network Functions
+   DOI: 10.23919/CNSM50824.2020.9269063
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+210. Title: High Resolution Spintronics Probe-Array Technology Solutions for Very Near-Field Scanning
+   DOI: 10.1109/CAMA49227.2021.9703656
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+211. Title: Machine Learning-Based Method for Prediction of Virtual Network Function Resource Demands
+   DOI: 10.1109/NETSOFT.2019.8806687
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+212. Title: Towards Verifiable Performance Measurement over In-the-Cloud Middleboxes
+   DOI: 10.1109/INFOCOM.2019.8737435
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+213. Title: DeepVNP:Virtual Network Placing with Deep Reinforcement Learning in Industrial IoT
+   DOI: 10.1109/CSCWD61410.2024.10580092
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+214. Title: CleanG—Improving the Architecture and Protocols for Future Cellular Networks With NFV
+   DOI: 10.1109/TNET.2020.3015946
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: ACM - acm_3338840.3355637 - 2016-2021.bib
+
+215. Title: Joint Two-Tier Network Function Parallelization on Multicore Platform
+   DOI: 10.1109/TNSM.2019.2920012
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: IEEE - export2026.06.10-13.59.50.csv
+
+216. Title: Stochastic Network Calculus for Network Function Virtualization in Underwater Wireless Sensor Networks
+   DOI: 10.1109/ICEEICT53079.2022.9768495
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+217. Title: Resource Allocation Optimization in the NFV-Enabled MEC Network Based on Game Theory
+   DOI: 10.1109/ICC.2019.8761912
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+218. Title: DRL-SFCP: Adaptive Service Function Chains Placement with Deep Reinforcement Learning
+   DOI: 10.1109/ICC42927.2021.9500964
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+219. Title: Dynamic and Application-Aware Provisioning of Chained Virtual Security Network Functions
+   DOI: 10.1109/TNSM.2019.2941128
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+220. Title: Optimized Multi-Service Tasks Offloading for Federated Learning in Edge Virtualization
+   DOI: 10.1109/TNSE.2022.3200057
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+221. Title: An adaptive detection and prevention architecture for unsafe traffic in SDN enabled mobile networks
+   DOI: 10.23919/INM.2017.7987395
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+222. Title: A Two-Stage GCN-Based Deep Reinforcement Learning Framework for SFC Embedding in Multi-Datacenter Networks
+   DOI: 10.1109/TNSM.2023.3284293
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+223. Title: Minimizing the Latency of Embedding Dependence-Aware SFCs into MEC Network via Graph Theory
+   DOI: 10.1109/GLOBECOM46510.2021.9685945
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+224. Title: Performance of OVS-DPDK in Container Networks
+   DOI: 10.1109/ICTC49870.2020.9289483
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+225. Title: The Third Generation of Wireless Networks (5G): Preventing Cyberattacks on Essential Services and Preserving Cyberspace
+   DOI: 10.1109/SUSTAINED63638.2024.11074099
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+226. Title: LUMEN: A global fault management framework for network virtualization environments
+   DOI: 10.1109/ICIN.2018.8401622
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+227. Title: CURATE: On-Demand Orchestration of Services for Health Emergencies Prediction and Mitigation
+   DOI: 10.1109/JSAC.2020.3021570
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+228. Title: Low-Latency Robust Computing Vehicular Networks
+   DOI: 10.1109/TVT.2022.3212011
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+229. Title: Profit Driven Service Provisioning in Edge Computing via Deep Reinforcement Learning
+   DOI: 10.1109/TNSM.2022.3159744
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+230. Title: A Threshold-Triggered Deep Q-Network-Based Framework for Self-Healing in Autonomic Software-Defined IIoT-Edge Networks
+   DOI: 10.1109/TNSM.2025.3647853
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+231. Title: Robust Service Provisioning With Service Function Chain Requirements in Mobile Edge Computing
+   DOI: 10.1109/TNSM.2021.3062650
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+232. Title: 5G Security Artifacts (DoS / DDoS and Authentication)
+   DOI: 10.1109/COMTECH.2019.8737800
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+233. Title: GSDM: Graph-Based Scaling Detection Model in Network Function Virtualization
+   DOI: 10.1109/GLOBECOM38437.2019.9013370
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+234. Title: Security Orchestration in 5G and Beyond Smart Network Technologies
+   DOI: 10.1109/OJCS.2025.3563619
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+235. Title: Adaptive Service Function Chain Orchestration Algorithm Based on Deep Reinforcement Learning
+   DOI: 10.1109/SPIC62469.2024.10691431
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+236. Title: Auto-Scaling VNFs Using Machine Learning to Improve QoS and Reduce Cost
+   DOI: 10.1109/ICC.2018.8422788
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+237. Title: The structure of a mobile provider network with network functions virtualization
+   DOI: 10.1109/TCSET.2018.8336370
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+238. Title: End-To-End Evaluation of the Int5gent Platform: Integrating 5G Enabling Technologies in a Holistic Service to Physical Layer Platform
+   DOI: 10.1109/EuCNC/6GSummit63408.2025.11036888
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+239. Title: A Forecasting Approach to Improve Control and Management for 5G Networks
+   DOI: 10.1109/TNSM.2021.3056222
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+240. Title: PDO-SFCM: Prediction-Driven Orchestration for SFC Migration in SAGIN via Fine-Tuned Large Time-Series Model and DRL
+   DOI: 10.1109/TNSM.2026.3694203
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+241. Title: CDN Slicing over a Multi-Domain Edge Cloud
+   DOI: 10.1109/TMC.2019.2921712
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+242. Title: Joint Power Scaling of Processing Resources and Consolidation of Virtual Network Functions
+   DOI: 10.1109/CloudNet.2016.20
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+243. Title: Performance-Aware Orchestration of P4-Based Heterogeneous Cloud Environments
+   DOI: 10.1109/TNSM.2023.3267983
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+244. Title: A Study of Slice-Aware Service Assurance for Network Function Virtualization
+   DOI: 10.1109/NETSOFT.2019.8806679
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+245. Title: Mobility-Aware Service Function Chain Deployment and Migration in LEO Mega-Constellation Networks
+   DOI: 10.1109/ICCC62479.2024.10682030
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+246. Title: Toward Optimal Partial Parallelization for Service Function Chaining
+   DOI: 10.1109/TNET.2021.3075709
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: ACM - acm_3338840.3355637 - 2016-2021.bib
+
+247. Title: A Generative Model-Guided Distributed DRL Framework for Scalable and Efficient SFC Orchestration in Future Network Architectures
+   DOI: 10.1109/TNSE.2025.3620231
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+248. Title: A Web-Based Management System for Software Defined Network Controllers
+   DOI: 10.1109/ACOMP.2019.00008
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+249. Title: Efficient Exploitation of Mobile Edge Computing for Virtualized 5G in EPC Architectures
+   DOI: 10.1109/MobileCloud.2016.24
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+250. Title: Dynamic Network Slice Scaling Assisted by Attention-Based Prediction in 5G Core Network
+   DOI: 10.1109/ACCESS.2022.3190640
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+251. Title: SUPC: SDN enabled Universal Policy Checking in Cloud Network
+   DOI: 10.1109/ICCNC.2019.8685550
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+252. Title: Proactive Auto-Scaling for Service Function Chains in Cloud Computing Based on Deep Learning
+   DOI: 10.1109/ACCESS.2024.3375772
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+253. Title: Intent-Based Automatic Security Enhancement Method Toward Service Function Chain
+   DOI: 10.1109/TNSM.2025.3635228
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+254. Title: Anomaly detection for Smart City applications over 5G low power wide area networks
+   DOI: 10.1109/NOMS.2018.8406257
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+255. Title: Rldish: Edge-Assisted QoE Optimization of HTTP Live Streaming with Reinforcement Learning
+   DOI: 10.1109/INFOCOM41043.2020.9155467
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+256. Title: Obstacles and Opportunities Provided using the Impact of Fifth-Generation Networks on Cybersecurity
+   DOI: 10.1109/IEMECON62401.2024.10846411
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+257. Title: Future Controller Design and Implementation Trends in Software Defined Networking
+   DOI: 10.1109/ICMETE.2018.00017
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+258. Title: Resilience of SDN Controllers to DDoS Attacks: A Comparative Study of RYU, ODL, and OVS
+   DOI: 10.1109/ICCWorkshops67674.2025.11162324
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+259. Title: UAV for IoT Communications: Beam Selection Using Matching Game and Network Slicing
+   DOI: 10.1109/WINCOM50532.2020.9272510
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+260. Title: Creating Complex Network Services with eBPF: Experience and Lessons Learned
+   DOI: 10.1109/HPSR.2018.8850758
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+261. Title: Higher aggregation of gNodeBs in Cloud-RAN architectures via parallel computing
+   DOI: 10.1109/ICIN.2019.8685900
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+262. Title: MARC-6G: Multi-Agent Reinforcement Learning for Distributed Context-Aware SFC Deployment and Migration in 6G Networks
+   DOI: 10.23919/CNSM67658.2025.11297500
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+263. Title: Utilisation Profiles of Bridging Function Chain for Healthcare Use Cases
+   DOI: 10.1109/eScience55777.2022.00085
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+264. Title: A Forwarding Graph Embedding Algorithm Exploiting Regional Topology Information
+   DOI: 10.1631/FITEE.1601404
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: SearchResults - 2016-2021.csv
+
+265. Title: Deploying Network Functions for Multiaccess Edge-IoT With Deep Reinforcement Learning
+   DOI: 10.1109/JIOT.2020.2987011
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+266. Title: SFCache: Hybrid NF Synthesization in Runtime With Rule-Caching in Programmable Switches
+   DOI: 10.1109/TNSM.2024.3390140
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+267. Title: Auto-Scaling Network Service Chains Using Machine Learning and Negotiation Game
+   DOI: 10.1109/TNSM.2020.2995900
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+268. Title: SERENS: Self Regulating Network Slicing in 5G for Efficient Resource Utilization
+   DOI: 10.1109/5GWF49715.2020.9221405
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+269. Title: Re-Architecting the Packet Core and Control Plane for Future Cellular Networks
+   DOI: 10.1109/ICNP.2019.8888040
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+270. Title: Federated TON_IoT Windows Datasets for Evaluating AI-Based Security Applications
+   DOI: 10.1109/TrustCom50675.2020.00114
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+271. Title: Detection as a service: An SDN application
+   DOI: 10.23919/ICACT.2017.7890099
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+272. Title: Metro-Haul: SDN Control and Orchestration of Disaggregated Optical Networks with Model-Driven Development
+   DOI: 10.1109/ICTON.2018.8473858
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+273. Title: An Overview of Obstacles in 5G Backhaul and Latest Studies
+   DOI: 10.1109/ICACITE60783.2024.10616512
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+274. Title: Traffic Data Classification using Machine Learning Algorithms in SDN Networks
+   DOI: 10.1109/ICTC49870.2020.9289174
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+275. Title: Evaluating Software-Defined Networking-Driven Edge Clouds for 5G Critical Communications
+   DOI: 10.1109/ICTC.2018.8539369
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+276. Title: Architecture for Inspecting Bluetooth Traffic in Software-Defined Networks
+   DOI: 10.1109/RoEduNet60162.2023.10274923
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+277. Title: LBSMT: Load Balancing Switch Migration Algorithm for Cooperative Communication Intelligent Transportation Systems
+   DOI: 10.1109/TGCN.2022.3162237
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+278. Title: A Novel SDN-based Architecture and Traffic Steering Method for Service Function Chaining
+   DOI: 10.1109/MoWNet.2018.8428930
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+279. Title: Trials Supported By Smart Networks Beyond 5G: the TrialsNet Approach
+   DOI: 10.1109/FNWF58287.2023.10520545
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+280. Title: Lightness: A Function-Virtualizable Software Defined Data Center Network With All-Optical Circuit/Packet Switching
+   DOI: 10.1109/JLT.2015.2509476
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+281. Title: An evaluation of a virtual network function for real-time threat detection using stream processing
+   DOI: 10.1109/MOBISECSERV.2018.8311440
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+282. Title: Structural Dependency Aware Service Chain Mapping for Network Function Virtualization
+   DOI: 10.1109/DRCN48652.2020.1570611214
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
+283. Title: Mapping the Research Landscape of DDoS Detection in Software-Defined Networks: A Bibliometric Analysis
+   DOI: 10.1109/ICCR67387.2025.11291763
+   Source File: IEEE - export2026.06.10-13.59.50.csv
+   Original File: Scopus - scopus_export_Jun 10-2026_987801b1-b3d1-4cb7-bd18-3a1f94c8b5ad.csv
+
