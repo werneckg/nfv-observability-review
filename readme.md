@@ -21,7 +21,7 @@ The artifacts produced and used originate from a computational environment with 
 * Ubuntu 24.04.5 LTS.
 
 ## Dependencies
-To reproduce the results of removing duplicated works, Python 3.12 must be installed, and the modules described in the *requirements.txt* file must be properly configured.
+To reproduce the results of removing duplicated works, Python 3.12 must be installed, and the modules described in the `requirements.txt` file must be properly configured.
 
 ## Python and Modules
 First, it necessary to verify that the Python library is installed and is the correct version by using the following command:
